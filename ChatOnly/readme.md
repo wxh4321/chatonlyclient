@@ -4,3 +4,5 @@
 #####商务合作，本软件服务器项目代码联系mywechat
 扫码地址
 https://github.com/wxh4321/chatonlyclient/edit/master/ChatOnly/app/src/main/res/drawable/mywechat.png
+app功能介绍
+https://pan.baidu.com/s/1C9UjGtGZN2POUh1S2-N5zQ

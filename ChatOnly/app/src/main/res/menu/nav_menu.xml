@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_friends"
+        android:icon="@drawable/nav_friends"
+        android:title="已有联系人"
+        />
+    <item
+        android:id="@+id/nav_location"
+        android:icon="@drawable/nav_location"
+        android:title="获取附近的人"
+        />
+    <item
+        android:id="@+id/nav_tasks"
+        android:icon="@drawable/nav_tasks"
+        android:title="吐槽与广告"
+        />
+    <item
+        android:id="@+id/nav_mail"
+        android:icon="@drawable/nav_mail"
+        android:title="联系开发者"
+        />
+    <!--https://findicons.com/-->
+</group>
+</menu>

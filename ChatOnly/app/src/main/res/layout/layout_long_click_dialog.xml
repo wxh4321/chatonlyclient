@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/icon_private_message_delete"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:text="删除"
+        android:textSize="10dp"
+        android:textColor="#ff000000" />
+
+</FrameLayout>

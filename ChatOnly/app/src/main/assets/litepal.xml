@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+<dbname value="Msg"/>
+<version value="1"/>
+<dbname value="UserId"/>
+<version value="1"/>
+<dbname value="Address"/>
+<version value="1"/>
+<list>
+    <mapping class="com.example.wangx.chatonly.Msg"></mapping>
+    <mapping class="com.example.wangx.chatonly.UserId"></mapping>
+    <mapping class="com.example.wangx.chatonly.Address"></mapping>
+</list>
+</litepal>
